@@ -31,7 +31,7 @@ This [awesome list of free training](https://coopsec.github.io/talk/MegaList/) i
 * [Federal Virtual Training Environment (FedVTE)](https://niccs.us-cert.gov/training/federal-virtual-training-environment-fedvte) [FREE (_for government personnel and veterans_)
 * [NICCS](https://niccs.us-cert.gov/training) [FREE]
 * [Pluralsight](https://www.pluralsight.com) [PAID]
-* [Lynda](https://www.lynda.com/Security-training-tutorials/2069-0.html) [PAID]
+* [Lynda](https://www.lynda.com/Security-training-tutorials/2069-0.html) [PAID] Other options here
 
 1. __Certifications__. In my experience - recruiters, hiring managers, other infosec pros (to some degree) and the infosec industry at large __love__ certifications. Take for example, the CompTIA [Security+](https://certification.comptia.org/certifications/security) certification. The Securtiy+ is a great entry-level cert which can not only demonstrate that you are serious about getting into infosec but it also is a great introduction to a lot of the foundational infosec concepts you will need throughout your career. I think the return on investment in getting this cert is well worth it (I in-fact started out my infosec career with this cert so I can attest to its worthiness to some degree.) As you learn more (and with time/budget willing), begin to take a look at some [other certification options](#certifications) as well.
 
